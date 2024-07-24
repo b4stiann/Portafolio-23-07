@@ -17,7 +17,6 @@ body {
 
 .contacto{
     color: white;
-    background-color: rgb(15, 54, 128);
     display: flex;
     justify-content: space-between;
 }
