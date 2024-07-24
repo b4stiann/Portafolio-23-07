@@ -10,6 +10,11 @@ body {
 
 }
 
+.dereechos{
+    display: flex;
+    justify-content: center;
+    color: white;
+}
 
 ol {
     color: white;
