@@ -10,10 +10,17 @@ body {
 
 }
 
-.dereechos{
+.derechos{
     display: flex;
     justify-content: center;
     color: white;
+}
+
+.contacto{
+    color: white;
+    background-color: rgb(15, 54, 128);
+    display: flex;
+    justify-content: center;
 }
 
 ol {
