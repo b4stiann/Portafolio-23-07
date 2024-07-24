@@ -93,6 +93,11 @@ ul li:hover {
     color: black;
 }
 
+.ul-links a{
+    text-decoration: none;
+    color: aliceblue;
+}
+
 .aprendiendo-1 {
     color: white;
     font-size: 30px;
